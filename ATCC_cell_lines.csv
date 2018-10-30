@@ -1,0 +1,28 @@
+,ATCC code,Age,Applications,Biosafety Level,Cell Type,Culture Properties,Disease,Gender,Morphology,Organism,Product Format,Storage Conditions,Strain,Tissue
+0,+/+ MGT  (ATCC® CRL-6468™),adult,,"1 
+
+Biosafety classification is based on U.S. Public Health Service Guidelines, it is the responsibility of the customer to ensure that their facilities comply with biosafety regulations for their own country.",,adherent,,female,,"Mus musculus, mouse",frozen,,HRS/J,mammary gland
+1,+/+ SCT  (ATCC® CRL-6469™),newborn,"This cell line is neither produced nor fully characterized by ATCC. We do not guarantee that it will maintain a specific morphology, purity, or any other property upon passage.","1 
+
+Biosafety classification is based on U.S. Public Health Service Guidelines, it is the responsibility of the customer to ensure that their facilities comply with biosafety regulations for their own country.",,adherent,cancer,,,"Mus musculus, mouse",frozen,,HRS/J,connective and soft tissue
+2,11P0-1  (ATCC® CRL-2037™),11 days gestation,The 11P0-1 cell line was established by transformation of placental cells from an 11 day mouse embryo with A-MuLV.,"2 
+
+Biosafety classification is based on U.S. Public Health Service Guidelines, it is the responsibility of the customer to ensure that their facilities comply with biosafety regulations for their own country.",mast cell; Abelson murine leukemia virus transformed,suspension,,,mast cell,"Mus musculus, mouse",frozen,liquid nitrogen vapor phase,,
+3,121-19B10  (ATCC® CRL-2652™),,,"1 
+
+Biosafety classification is based on U.S. Public Health Service Guidelines, it is the responsibility of the customer to ensure that their facilities comply with biosafety regulations for their own country.",hybridoma:lymphoblast B lymphocyte,suspension,,female,lymphoblast,"Mus musculus (B cell); Mus musculus (myeloma), mouse (B cell); mouse (myeloma)",frozen,liquid nitrogen vapor phase,129GIX+,spleen
+4,127TAg  (ATCC® CRL-2817™),14.5 days gestation embryo,DNA repair studies,"2 cells containing SV40 viral DNA sequences
+
+Biosafety classification is based on U.S. Public Health Service Guidelines, it is the responsibility of the customer to ensure that their facilities comply with biosafety regulations for their own country.",fibroblast immortalized with SV40 large T antigenSV40 large T antigen transfected,adherent,,,fibroblast,"Mus musculus, mouse",frozen,liquid nitrogen vapor phase,,embryo
+5,13762 MAT B III  (ATCC® CRL-1666™),,,"1 
+
+Biosafety classification is based on U.S. Public Health Service Guidelines, it is the responsibility of the customer to ensure that their facilities comply with biosafety regulations for their own country.",,suspension or loosely adherent,adenocarcinoma,,epithelial,"Rattus norvegicus, rat",frozen,liquid nitrogen vapor phase,Fischer 344 (F344),mammary gland
+6,13F3 (ATCC® CRL-3422™),,"Model for a novel and structurally distinct Ig superfamily inhibitory ligand (VISTA), designated as V-domain Ig suppressor of T cell activation, a immunoregulatory molecule, that may play a role in the development of autoimmunity and immune surveillance in cancer.","1 
+
+Biosafety classification is based on U.S. Public Health Service Guidelines, it is the responsibility of the customer to ensure that their facilities comply with biosafety regulations for their own country.",,mixed,,,rounded,"Cricetulus migratorius, hamster, Armenian",frozen 1.0 mL,,,spleen
+7,"142-24E5 [1/24E05, 142-24E05, SCRF 35.1] (ATCC® CRL-2649™)",,"Animals were immunized with a synthetic polypeptide with the sequence YREQIKRVKDSDDVPMVLVGNKC corresponding to peptides 96 to 118 of the predicted p21 sequence of the ras (Ha-ras) oncogene, formerly v-ras (H).The antibody reacts in indirect fluorescence assays of frozen sections and peroxidase stain paraffin embedded cell lines or tissues.","1 
+
+Biosafety classification is based on U.S. Public Health Service Guidelines, it is the responsibility of the customer to ensure that their facilities comply with biosafety regulations for their own country.",hybridoma: B lymphocyte,suspension but many cells attach,,,lymphoblast,"Mus musculus (B cell); Mus musculus (myeloma), mouse (B cell); mouse (myeloma)",frozen,,,
+8,146-03E04 [146-3E4] (ATCC® CRL-2650™),,Animals were immunized with a synthetic polypeptide with the sequence YTLVREIRQHKLRKLNPPDESGPGC corresponding to peptides 157 to 181 of the H-ras oncogene.The antibody reacts with the synthetic H-ras oncogene peptide.It reacts with the Harvey (Ha-ras) p21 protein but not the Kirsten (Ki-ras) p21 protein.,"1 
+
+Biosafety classification is based on U.S. Public Health Service Guidelines, it is the responsibility of the customer to ensure that their facilities comply with biosafety regulations for their own country.",hybridoma: B lymphocyte,"suspension, but many cells attach",,,lymphoblast,"Mus musculus (B cell); Mus musculus (myeloma), mouse (B cell); mouse (myeloma)",frozen,,,
